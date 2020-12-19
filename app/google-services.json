@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "449527438833",
+    "firebase_url": "https://reem-181272-93bba-default-rtdb.firebaseio.com/",
+    "project_id": "reem-181272-93bba",
+    "storage_bucket": "reem-181272-93bba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449527438833:android:3e311eec59a8e277f57850",
+        "android_client_info": {
+          "package_name": "com.test.myfirstandroidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449527438833-homu2tgt76d5sv1qv0isjtajmhvkbfpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.myfirstandroidapp",
+            "certificate_hash": "81a08c986f5b018b41421a416229968df46e50e0"
+          }
+        },
+        {
+          "client_id": "449527438833-29im98c3ou1sm7cu60mq7v6bj050daph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD35msDbN1M8pIRDyOf7lLSutG6P9MRQ3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449527438833-29im98c3ou1sm7cu60mq7v6bj050daph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
